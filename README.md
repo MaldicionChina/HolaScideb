@@ -3,6 +3,10 @@ Hola Scideb - C3
 
 Empaquetamiento Básico - dh_make
 
+Para construir el programa use la siguiene línea
+	
+	make
+
 Para instalar el script use la siguiente línea
 
         make install DESTDIR=RUTA/DONDE/QUIERE/INSTALAR/EL/SCRIPT
